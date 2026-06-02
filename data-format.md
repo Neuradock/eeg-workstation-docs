@@ -406,22 +406,6 @@ Planned and in-progress examples include:
 | [eeg-workstation-sample-data](https://github.com/Neuradock/eeg-workstation-sample-data) | Public sample EEG datasets for tutorials and examples |
 | [eeg-workstation-hardware](https://github.com/Neuradock/eeg-workstation-hardware) | Hardware interface and port specifications for third-party integration |
 
-## Notes for Public Release
-
-Before public release, this document should be checked against the official Python readers and exported sample files.
-
-The following items must be confirmed by the technical team:
-
-- Exact USB text file format
-- Exact Bluetooth text file format
-- Sampling rate
-- Unit conversion rule
-- Delimiter and header structure
-- Marker format
-- Timestamp behavior
-- Whether Bluetooth text files group multiple samples per line
-- Whether all public examples use raw, converted, or preprocessed EEG values
-
 ## Links
 
 - Website: [neuradock.com](https://neuradock.com)
