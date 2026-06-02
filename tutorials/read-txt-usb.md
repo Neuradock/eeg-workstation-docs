@@ -17,11 +17,7 @@ This means that USB text files are generally easier to parse because each line c
 
 The original tutorial notebook is available here:
 
-- [2.text_file_read_usb_version.ipynb](https://github.com/JunwenLuo/NeuraDock-Tutorials/blob/main/2.text_file_read_usb_version.ipynb)
-
-A cleaned and official version should later be maintained in:
-
-- [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python)
+- [2.text_file_read_usb_version.ipynb](https://github.com/Neuradock/eeg-workstation-python/blob/main/examples/2.text_file_read_usb_version.ipynb)
 
 ## Data Structure
 
@@ -69,20 +65,6 @@ When implementing or modifying a USB text file reader, keep the following points
 - The parser should avoid overwriting the original raw `.txt` file.
 - The parser should output a clean structure for later analysis.
 - The parser should document whether the values are raw values, converted voltage values, or preprocessed values.
-
-## To Be Confirmed
-
-The following technical details should be confirmed before this tutorial is finalized for public release:
-
-| Item | Status |
-|---|---|
-| Exact USB text file delimiter | To be confirmed |
-| Exact header field definition | To be confirmed |
-| Exact auxiliary value meaning | To be confirmed |
-| Whether timestamp is included in the exported file | To be confirmed |
-| Whether marker information is included in the exported file | To be confirmed |
-| Raw value unit or conversion rule | To be confirmed |
-| Official cleaned notebook location | To be confirmed |
 
 ## Related Documentation
 
