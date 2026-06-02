@@ -23,10 +23,10 @@ The public hardware interface materials may include:
 
 | Item | Description | Status |
 |---|---|---|
-| USB data interface notes | Notes for accessing EEG data through USB workflows | In progress |
-| Bluetooth data interface notes | Notes for accessing EEG data through Bluetooth workflows | In progress |
-| Data streaming format notes | Information about how EEG data is structured for software parsing | In progress |
-| Recorded data format notes | Notes about exported EEG text files | In progress |
+| USB data interface notes | Notes for accessing EEG data through USB workflows | Available |
+| Bluetooth data interface notes | Notes for accessing EEG data through Bluetooth workflows | Available |
+| Data streaming format notes | Information about how EEG data is structured for software parsing | Available |
+| Recorded data format notes | Notes about exported EEG text files | Available |
 | Channel layout | Default 7-channel electrode layout | Available |
 | Third-party integration notes | Guidance for connecting NeuraDock data with external software systems | In progress |
 | Port and connector specifications | Interface-level information where applicable | To be finalized |
