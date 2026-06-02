@@ -96,19 +96,6 @@ Planned public hardware interface materials include:
 
 These materials are intended for developers who want to connect NeuraDock EEG data with their own software, experiments, applications, or interactive systems.
 
-## Project Status
-
-This documentation repository is currently being prepared for public release.
-
-Current documentation priorities include:
-
-1. Translating existing Chinese tutorials into English.
-2. Organizing USB and Bluetooth data streaming tutorials.
-3. Documenting EEG text file formats.
-4. Preparing reproducible Python examples.
-5. Publishing sample EEG datasets.
-6. Clarifying hardware interface specifications for third-party integration.
-
 ## Links
 
 - Website: [neuradock.com](https://neuradock.com)
@@ -118,6 +105,8 @@ Current documentation priorities include:
 
 ## License
 
-Licenses for this documentation repository will be provided before public release.
-
-Different parts of the NeuraDock project may use different licenses depending on content type, such as software code, documentation, sample data, and hardware interface specifications.
+- Hardware design files: CERN-OHL-W
+- Mechanical CAD files: CC BY-SA 4.0
+- Software (SDK and tools): MIT License
+  
+All resources will be published on our GitHub repository. We welcome contributions from the community, including software improvements, new analysis workflows, and hardware adaptations.
