@@ -11,11 +11,8 @@ The tutorial includes two major parts:
 
 The original tutorial code is available here:
 
-- [NeuraDock SSVEP Tutorial Code](https://github.com/JunwenLuo/NeuraDock-Tutorials/tree/main/ssvep)
+- [NeuraDock SSVEP Tutorial Code](https://github.com/Neuradock/eeg-workstation-examples/tree/main/ssvep)
 
-A cleaned and official version should later be maintained in:
-
-- [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples)
 
 ## Overview
 
@@ -383,25 +380,6 @@ When preparing or modifying the SSVEP workflow, keep the following points in min
 - Clearly document epoch length and sampling rate.
 - Check both the stimulation frequency and harmonics in the PSD.
 - Avoid treating the tutorial result as a clinical or diagnostic result.
-
-## To Be Confirmed
-
-The following technical details should be confirmed before this tutorial is finalized for public release:
-
-| Item | Status |
-|---|---|
-| Official cleaned SSVEP example location | To be confirmed |
-| Exact command to run the stimulation script | To be confirmed |
-| Exact command to run the offline analysis script | To be confirmed |
-| Official required Python dependencies | To be confirmed |
-| Exact monitor refresh rate used in the public example | To be confirmed |
-| Exact stimulation frequency or frequencies | To be confirmed |
-| Exact marker file format | To be confirmed |
-| Exact EEG sampling rate | To be confirmed |
-| Exact preprocessing parameters | To be confirmed |
-| Exact epoch length used in the public example | To be confirmed |
-| Exact PSD parameters | To be confirmed |
-| Official sample dataset location | To be confirmed |
 
 ## Related Documentation
 
