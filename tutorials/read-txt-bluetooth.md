@@ -26,13 +26,9 @@ The parser needs to unpack each row and convert it into one row per sampling mom
 
 ## Related Code
 
-The original tutorial notebook is available here:
+The tutorial notebook is available here:
 
-- [1.text_file_read_bluetooth_version.ipynb](https://github.com/JunwenLuo/NeuraDock-Tutorials/blob/main/1.text_file_read_bluetooth_version.ipynb)
-
-A cleaned and official version should later be maintained in:
-
-- [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python)
+- [1.text_file_read_bluetooth_version.ipynb](https://github.com/Neuradock/eeg-workstation-python/blob/main/examples/1.text_file_read_bluetooth_version.ipynb)
 
 ## Data Structure
 
@@ -181,21 +177,6 @@ When implementing or modifying a Bluetooth text file reader, keep the following 
 - The parser should clearly separate header fields, EEG values, and auxiliary values.
 - The parser should avoid overwriting the original raw `.txt` file.
 - The parser should document whether the values are raw values, converted voltage values, or preprocessed values.
-
-## To Be Confirmed
-
-The following technical details should be confirmed before this tutorial is finalized for public release:
-
-| Item | Status |
-|---|---|
-| Exact Bluetooth text file delimiter | To be confirmed |
-| Exact timestamp field definition | To be confirmed |
-| Exact packet sequence field definition | To be confirmed |
-| Exact auxiliary value meaning | To be confirmed |
-| Whether every Bluetooth row always contains 5 sampling blocks | To be confirmed |
-| Whether marker information is included in the exported file | To be confirmed |
-| Raw value unit or conversion rule | To be confirmed |
-| Official cleaned notebook location | To be confirmed |
 
 ## Related Documentation
 
