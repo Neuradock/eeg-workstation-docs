@@ -24,21 +24,9 @@ This decouples the EEG data stream from the experiment logic while keeping the i
 
 ## Related Code
 
-The existing tutorial material refers to a real-time marker workflow implemented with a Python manager class.
+A cleaned and official version:
 
-The current code file appears to be:
-
-```text
-7.neuradock_marker.py
-```
-
-A cleaned and official version should later be maintained in:
-
-- [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples)
-
-Related Python tools should later be maintained in:
-
-- [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python)
+- [NeuraDock Real-Time EEG Stream with Event Markers](https://github.com/Neuradock/eeg-workstation-examples/tree/main/marker)
 
 ## Problem
 
