@@ -340,23 +340,6 @@ It is not intended to provide medical diagnosis, clinical treatment, or medical 
 
 Developers should validate their own workflows, signal quality, data processing steps, and experimental protocols before using the system in research or product prototypes.
 
-## Public Release Checklist
-
-Before this document is finalized for public release, the following items should be confirmed by the technical team:
-
-| Item | Status |
-|---|---|
-| Exact USB interface description | To be finalized |
-| Exact Bluetooth interface description | To be finalized |
-| Exact USB data format | To be finalized |
-| Exact Bluetooth data format | To be finalized |
-| Sampling rate | To be finalized |
-| Unit conversion rule | To be finalized |
-| Timestamp behavior | To be finalized |
-| Marker format | To be finalized |
-| Port and connector specifications, if applicable | To be finalized |
-| License for hardware interface documentation | To be finalized |
-
 ## Related Documentation
 
 | Document | Description |
