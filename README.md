@@ -21,15 +21,15 @@ The following tutorials are being prepared based on existing NeuraDock technical
 
 | Tutorial | Description | Related Repository | Status |
 |---|---|---|---|
-| [USB Real-Time Data Streaming](./tutorials/real-time-streaming-usb.md) | Read real-time EEG data from NeuraDock through USB | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | Preparing |
-| [Bluetooth Real-Time Data Streaming](./tutorials/real-time-streaming-bluetooth.md) | Read real-time EEG data from NeuraDock through Bluetooth | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | Preparing |
-| [Read USB Text Files](./tutorials/read-txt-usb.md) | Read and parse EEG text files recorded from the USB workflow | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | Preparing |
-| [Read Bluetooth Text Files](./tutorials/read-txt-bluetooth.md) | Read and parse EEG text files recorded from the Bluetooth workflow | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | Preparing |
-| [Real-Time Marker Workflow](./tutorials/real-time-marker.md) | Stream EEG data with event markers for experiment synchronization | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Preparing |
-| [Signal Quality Check](./tutorials/signal-quality.md) | Evaluate basic EEG signal quality from recorded NeuraDock data | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Preparing |
-| [SSVEP Workflow](./tutorials/ssvep.md) | Run visual stimulation and offline SSVEP analysis workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Preparing |
-| [cVEP Workflow](./tutorials/cvep.md) | Run code-modulated visual evoked potential workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Planned |
-| [Visual Reconstruction Demo](./tutorials/visual-reconstruction.md) | Advanced EEG visual reconstruction research example | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Planned |
+| [USB Real-Time Data Streaming](./tutorials/real-time-streaming-usb.md) | Read real-time EEG data from NeuraDock through USB | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | available |
+| [Bluetooth Real-Time Data Streaming](./tutorials/real-time-streaming-bluetooth.md) | Read real-time EEG data from NeuraDock through Bluetooth | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | available |
+| [Read USB Text Files](./tutorials/read-txt-usb.md) | Read and parse EEG text files recorded from the USB workflow | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | available |
+| [Read Bluetooth Text Files](./tutorials/read-txt-bluetooth.md) | Read and parse EEG text files recorded from the Bluetooth workflow | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | available |
+| [Real-Time Marker Workflow](./tutorials/real-time-marker.md) | Stream EEG data with event markers for experiment synchronization | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
+| [Signal Quality Check](./tutorials/signal-quality.md) | Evaluate basic EEG signal quality from recorded NeuraDock data | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
+| [SSVEP Workflow](./tutorials/ssvep.md) | Run visual stimulation and offline SSVEP analysis workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
+| [cVEP Workflow] | Run code-modulated visual evoked potential workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Planned |
+| [Visual Reconstruction Demo](https://github.com/Neuradock/eeg-workstation-examples/tree/main/Visual-reconstruction) | Advanced EEG visual reconstruction research example | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 
 ## Recommended Reading Order
 
