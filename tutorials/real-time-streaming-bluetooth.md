@@ -24,11 +24,7 @@ This workflow is useful for:
 
 The original tutorial notebook is available here:
 
-- [3.online_data_stream_bluetooth.ipynb](https://github.com/JunwenLuo/NeuraDock-Tutorials/blob/main/3.online_data_stream_bluetooth.ipynb)
-
-A cleaned and official version should later be maintained in:
-
-- [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python)
+- [3.online_data_stream_bluetooth.ipynb](https://github.com/Neuradock/eeg-workstation-python/blob/main/examples/3.online_data_stream_bluetooth.ipynb)
 
 ## Real-Time Streaming Concept
 
@@ -333,25 +329,6 @@ When implementing or modifying the Bluetooth real-time streaming workflow, keep 
 - Choose `data_group_len` according to latency and algorithm requirements.
 - Be aware that `for data_group in stream` is blocking.
 - Document whether timestamps are device-side, software-side, or host-side.
-
-## To Be Confirmed
-
-The following technical details should be confirmed before this tutorial is finalized for public release:
-
-| Item | Status |
-|---|---|
-| Exact Bluetooth stream setup steps in NeuraDock Recording Software | To be confirmed |
-| Exact IP and port configuration | To be confirmed |
-| Whether a separate forwarding script is required | To be confirmed |
-| Exact socket receive implementation | To be confirmed |
-| Exact Bluetooth row structure | To be confirmed |
-| Exact delimiter and newline behavior | To be confirmed |
-| Exact `data_group_len` examples | To be confirmed |
-| Whether every Bluetooth row always contains 5 time points | To be confirmed |
-| Whether timestamp information is device-side, software-side, or host-side | To be confirmed |
-| Whether marker information is available in the Bluetooth stream | To be confirmed |
-| Raw value unit or conversion rule | To be confirmed |
-| Official cleaned notebook location | To be confirmed |
 
 ## Related Documentation
 
