@@ -8,12 +8,12 @@ The documentation covers setup guides, data format notes, software usage, Python
 
 | Document | Description | Status |
 |---|---|---|
-| [Getting Started](./getting-started.md) | First-time setup guide for NeuraDock EEG Workstation | In progress |
-| [Data Format](./data-format.md) | EEG text file structure, channel layout, USB data format, and Bluetooth data format | In progress |
-| [Hardware Interface](./hardware-interface.md) | Hardware interface and port specifications for third-party integration | In progress |
-| [Software Installation](./software-installation.md) | Software environment setup, Python dependencies, and recommended tools | Preparing |
-| [FAQ](./faq.md) | Frequently asked questions about NeuraDock EEG Workstation | Preparing |
-| [Troubleshooting](./troubleshooting.md) | Common connection, data recording, and software issues | Preparing |
+| [Getting Started](./getting-started.md) | First-time setup guide for NeuraDock EEG Workstation | avaliable |
+| [Data Format](./data-format.md) | EEG text file structure, channel layout, USB data format, and Bluetooth data format | avaliable |
+| [Hardware Interface](./hardware-interface.md) | Hardware interface and port specifications for third-party integration | avaliable |
+| [Software Installation](./software-installation.md) | Software environment setup, Python dependencies, and recommended tools | avaliable |
+| [FAQ](./faq.md) | Frequently asked questions about NeuraDock EEG Workstation | avaliable |
+| [Troubleshooting](./troubleshooting.md) | Common connection, data recording, and software issues | avaliable |
 
 ## Tutorials
 
