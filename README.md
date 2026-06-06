@@ -101,7 +101,7 @@ These materials are intended for developers who want to connect NeuraDock EEG da
 - Website: [neuradock.com](https://neuradock.com)
 - Crowd Supply: [NeuraDock EEG Workstation](https://www.crowdsupply.com/neuradock/neuradock-eeg-workstation)
 - YouTube: [@NeuraDock](https://www.youtube.com/@NeuraDock)
-- Discord: NeuraDock Community
+- Discord: [NeuraDock Community](https://discord.gg/YdQp8puZjz)
 
 ## License
 
