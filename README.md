@@ -19,7 +19,7 @@ The documentation covers setup guides, data format notes, software usage, Python
 
 The following tutorials are being prepared based on existing NeuraDock technical materials.
 
-| Tutorial | Description | Related Repository | Status |
+| Tutorial | Description | Related Repository |Status |
 |---|---|---|---|
 | [USB Real-Time Data Streaming](./tutorials/real-time-streaming-usb.md) | Read real-time EEG data from NeuraDock through USB | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | available |
 | [Bluetooth Real-Time Data Streaming](./tutorials/real-time-streaming-bluetooth.md) | Read real-time EEG data from NeuraDock through Bluetooth | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | available |
@@ -28,7 +28,7 @@ The following tutorials are being prepared based on existing NeuraDock technical
 | [Real-Time Marker Workflow](./tutorials/real-time-marker.md) | Stream EEG data with event markers for experiment synchronization | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 | [Signal Quality Check](./tutorials/signal-quality.md) | Evaluate basic EEG signal quality from recorded NeuraDock data | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 | [SSVEP Workflow](./tutorials/ssvep.md) | Run visual stimulation and offline SSVEP analysis workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
-| [cVEP Workflow](https://github.com/Neuradock/eeg-workstation-examples/tree/main/neuradock_cvep) | Run code-modulated visual evoked potential workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Planned |
+| [cVEP Workflow](https://github.com/Neuradock/eeg-workstation-examples/tree/main/neuradock_cvep) | Run code-modulated visual evoked potential workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 | [Visual Reconstruction Demo](https://github.com/Neuradock/eeg-workstation-examples/tree/main/Visual-reconstruction) | Advanced EEG visual reconstruction research example | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 
 ## Recommended Reading Order
