@@ -28,7 +28,7 @@ The following tutorials are being prepared based on existing NeuraDock technical
 | [Real-Time Marker Workflow](./tutorials/real-time-marker.md) | Stream EEG data with event markers for experiment synchronization | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 | [Signal Quality Check](./tutorials/signal-quality.md) | Evaluate basic EEG signal quality from recorded NeuraDock data | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 | [SSVEP Workflow](./tutorials/ssvep.md) | Run visual stimulation and offline SSVEP analysis workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
-| cVEP Workflow | Run code-modulated visual evoked potential workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Planned |
+| [cVEP Workflow](https://github.com/Neuradock/eeg-workstation-examples/tree/main/neuradock_cvep) | Run code-modulated visual evoked potential workflows | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Planned |
 | [Visual Reconstruction Demo](https://github.com/Neuradock/eeg-workstation-examples/tree/main/Visual-reconstruction) | Advanced EEG visual reconstruction research example | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | available |
 
 ## Recommended Reading Order
