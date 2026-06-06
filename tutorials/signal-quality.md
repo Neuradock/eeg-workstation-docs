@@ -16,14 +16,9 @@ Users do not need NeuraDock hardware to run this evaluation workflow. They can d
 
 ## Related Code
 
-The original tutorial notebook is available here:
+The tutorial code is available here:
 
-- [9.signal_quality_check.ipynb](https://github.com/JunwenLuo/NeuraDock-Tutorials/blob/main/9.signal_quality_check.ipynb)
-
-A cleaned and official version should later be maintained in:
-
-- [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples)
-- [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python)
+- [signal-quality-check](https://github.com/Neuradock/eeg-workstation-examples/tree/main/signal-quality-check)
 
 ## What This Tutorial Helps Users Evaluate
 
